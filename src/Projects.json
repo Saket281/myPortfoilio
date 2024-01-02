@@ -1,0 +1,27 @@
+[
+    {
+        "title":"Movie App ",
+        "imageSrc":"projects/project.png",
+        "description":"Used for searching movies & TV shows based on rating and genres",
+        "skills":["React","Javascript","CSS(scss)"],
+        "demo":"https://www.example.com",
+        "source":"https://github.com/Saket281/movix"
+    },
+    {
+        "title":"Weather App",
+        "imageSrc":"projects/project1.png",
+        "description":"used for demonstration of weather of a location using latitude & longitude",
+        "skills":["React","Javascript","CSS"],
+        "demo":"https://www.example.com",
+        "source":"https://github.com/Saket281/weather-"
+    },
+    {
+        "title":"Admin Dashboard",
+        "imageSrc":"projects/project2.png",
+        "description":"Admin Dasborad design for usage in ecommerce apps",
+        "skills":["React","Javascript","CSS"],
+        "demo":"https://www.example.com",
+        "source":"https://github.com/Saket281/admin"
+    }
+    
+]
